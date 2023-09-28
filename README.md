@@ -1,3 +1,3 @@
-# Mensagens-Criptografadas
-Pequeno projeto onde fiz um sistema de criptografia, usando o hashlib, websockets, o asyncio , com um sistema de autenticação, tudo em python para uma prova da faculdade!
-É necessário a instalação do websockets e do cryptography(basta usar o "pip install cryptography' dentro do terminal, dentro da pasta que já instala)
+# CRIPTOGRAFIAS DE MENSAGENS
+  Sistema em Python com o uso de hashlib, asyncio, websockets, cipher, algorithms, nodes e os; pude entender como a lingugem Python funciona em um ambiente de desenvolvimento e
+  pude aplicar meus conhecimentos que tive na cadeira (da faculade) de segurança da informação; <3
